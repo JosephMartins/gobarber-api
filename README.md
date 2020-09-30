@@ -33,8 +33,12 @@ Para ver o serviço web que consome esta API, clique aqui: <a href="https://gith
 
 ## 🚀 Tecnologias
 
-ReactJS
-Styled-Components
+- NodeJS
+- Express
+- Autenticação JWT
+- Typeorm
+- Posgres
+- Bcrypt
 
 
 ## 💻 Como Utilizar
