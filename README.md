@@ -1,6 +1,8 @@
 <h1 align="center">
   <img src="https://github.com/JosephMartins/gobarber-web/blob/master/src/assets/logo.svg" alt="Logo"><br /><br />
-  <img src=".github/pessoinhas.png" alt="Logo Image" height="200">
+  <h4 align="center">  
+  GoBarber - A maneira certa de cortar o seu cabelo.
+</h4>
 </h1>
 
 <h3 align="center">
