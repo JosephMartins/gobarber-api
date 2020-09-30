@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <a href="#recycle-about-the-project">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -20,7 +20,16 @@
 
 <img alt="Layout" src=".github/mockup.png">
 
-## :recycle: About the project
+## :✌🏼: Sobre o projeto
+
+Esta api fornece  uma regras de negocio para organizar encontros entre barbeiros e clientes.
+
+Os clientes podem escolher o melhor horário disponível para eles.
+
+Os prestadores podem ver todos os seus agendamentos, gerenciar os horários e também ver se um cliente cancelou a programação.
+
+Para ver o serviço web que consome esta API, clique aqui: <a href="https://github.com/JosephMartins/gobarber-web">GoBarber-Web</a>
+
 
 Soon
 
