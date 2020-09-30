@@ -1,14 +1,10 @@
 <h1 align="center">
   <img src="https://github.com/JosephMartins/gobarber-web/blob/master/src/assets/logo.svg" alt="Logo"><br /><br />
-  <h4 align="center">  
+  <h3 align="center">  
   GoBarber - A maneira certa de cortar o seu cabelo.
-</h4>
+</h3>
 </h1>
 
-<h3 align="center">
-  
-  Ecoleta - A maneira mais fácil de jogar fora o lixo
-</h3>
 <p align="center">
   <a href="#recycle-about-the-project">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
