@@ -18,7 +18,7 @@
   <a href="https://insomnia.rest/run" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p> -->
 
-<!-- <img alt="Layout" src=".github/mockup.png">
+<!-- <img alt="Layout" src=".github/mockup.png">-->
 
 ## ✌🏼 Sobre o projeto
 
