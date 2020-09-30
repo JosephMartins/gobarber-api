@@ -20,7 +20,7 @@
 
 <!-- <img alt="Layout" src=".github/mockup.png">-->
 
-## ✌🏼 Sobre o projeto
+##  ✂ Sobre o projeto
 
 Esta api fornece  uma regras de negocio para organizar encontros entre barbeiros e clientes.
 
