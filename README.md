@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#Sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Como Utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
 </p>
@@ -31,15 +31,30 @@ Os prestadores podem ver todos os seus agendamentos, gerenciar os horários e ta
 Para ver o serviço web que consome esta API, clique aqui: <a href="https://github.com/JosephMartins/gobarber-web">GoBarber-Web</a>
 
 
-Soon
+## 🚀 Tecnologias
 
-## 🚀 Technologies
+ReactJS
+Styled-Components
 
-Soon
 
-## 💻 Começando
+## 💻 Como Utilizar
 
-Soon
+```
+Clone o projeto:
+Git clone https://github.com/JosephMartins/gobarber-api
+
+Crie um banco de dados com postgres chamado:
+Gobarber
+
+Entre na pasta via linha de comando e execute:
+yarn typeorm migration:run
+
+Em seguida execute: 
+yarn ou npm install
+
+Em seguida execute: 
+yarn dev:server
+```
 
 ## 🤔 Como contribuir
 
@@ -48,4 +63,4 @@ Soon
 -
 ```
 
-Criado por 💜&nbsp;  Joseph  Martins 👋
+Criado com 💜&nbsp;  por Joseph  Martins 👋
